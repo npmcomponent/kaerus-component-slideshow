@@ -1,7 +1,7 @@
-var Carousel = require('carousel'),
-    Emitter = require('emitter'),
+var Carousel = require('kaerus-component-carousel'),
+    Emitter = require('kaerus-component-emitter'),
     template = require('./template'),
-    Prefix = require('prefix'),
+    Prefix = require('jkroso-prefix'),
     prefixProp = {};
 
 function Slideshow(container,options){

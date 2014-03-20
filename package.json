@@ -1,0 +1,14 @@
+{
+  "name": "kaerus-component-slideshow",
+  "description": "Slideshow",
+  "version": "0.2.3",
+  "styles": [
+    "style.css"
+  ],
+  "dependencies": {
+    "kaerus-component-emitter": "git://github.com/npmcomponent/kaerus-component-emitter.git",
+    "kaerus-component-carousel": "git://github.com/npmcomponent/kaerus-component-carousel.git",
+    "jkroso-prefix": "git://github.com/npmcomponent/jkroso-prefix.git"
+  },
+  "license": "Apache2_0"
+}
